@@ -1,0 +1,26 @@
+body {
+  background-color: #c78020;
+  margin-top:0px;
+}
+
+
+h1 {
+  text-align:center;
+  padding-top: 70px;
+  color: white;
+  font-family: fantasy;
+  size: 200px;
+}
+h2 {
+  text-align: center;
+  color: white;
+  font-family: serif;
+}
+#partyisland {
+  width: 100%;
+}
+
+p{
+  text-align:center;
+  color:white;
+}
