@@ -1,5 +1,5 @@
 body {
-  background-color: #c78020;
+  background-color: #fae6da;
   margin-top:0px;
 }
 
@@ -7,14 +7,14 @@ body {
 h1 {
   text-align:center;
   padding-top: 70px;
-  color: white;
+  color: #c4551b;
   font-family: fantasy;
   size: 200px;
 }
 h2 {
   text-align: center;
-  color: white;
-  font-family: serif;
+  color: #c4551b;
+  font-family: fantasy;
 }
 #partyisland {
   width: 100%;
@@ -22,13 +22,21 @@ h2 {
 
 p{
   text-align:center;
-  color:white;
+  color:#c4551b;
+  font-family: fantasy;
 }
 #links {
-  word-spacing: 10px;
-  text-decoration: none;
+  word-spacing: 15px;
   text-align: center;
+}
 
+a {
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: white;
 }
 
 #link-item{
@@ -37,10 +45,19 @@ p{
 }
 li {
   font-size: 25px;
-  color: white;
+  color: #c4551b;
+  font-family: fantasy;
 }
 #hotel {
   width: 75%;
   margin-top: 50px;
   float: center;
+}
+#DJ {
+  width: 75%;
+}
+img {
+  display:block;
+  width: 75%;
+  margin: auto;
 }
