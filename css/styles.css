@@ -24,3 +24,23 @@ p{
   text-align:center;
   color:white;
 }
+#links {
+  word-spacing: 10px;
+  text-decoration: none;
+  text-align: center;
+
+}
+
+#link-item{
+  display: inline;
+
+}
+li {
+  font-size: 25px;
+  color: white;
+}
+#hotel {
+  width: 75%;
+  margin-top: 50px;
+  float: center;
+}
